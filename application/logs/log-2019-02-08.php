@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-02-08 00:42:41 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-02-08 00:42:41 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-02-08 00:42:41 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-02-08 00:43:13 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-02-08 00:43:13 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-02-08 00:43:13 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-02-08 04:47:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-02-08 04:47:35 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-02-08 05:17:07 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-02-08 05:17:07 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-02-08 05:17:07 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-02-08 05:17:48 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-02-08 05:17:48 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-02-08 05:17:48 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-02-08 05:32:42 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-02-08 16:14:56 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-02-08 19:35:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-02-08 19:35:27 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-02-08 19:35:27 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-02-08 19:35:27 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-02-08 19:36:39 --> 404 Page Not Found: Unit_kerja/index
+ERROR - 2019-02-08 19:36:42 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-02-08 19:36:43 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-02-08 19:36:44 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-02-08 19:37:39 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-02-08 19:37:43 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-02-08 19:37:46 --> 404 Page Not Found: An-theme/ando

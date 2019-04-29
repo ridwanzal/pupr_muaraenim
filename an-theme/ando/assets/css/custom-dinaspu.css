@@ -1,0 +1,121 @@
+.menu-custom{
+		background-color:#2055a2;
+}
+.pu-brand{
+	align-items: center;
+	display: flex;
+}
+.section-berita, .section-galeri{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+nav-custom > li.active > a:hover{
+	background-color: #ffffff80;
+	border: 1px solid #2055a2;
+}
+
+.nav > .navbar-nav{
+	float: right !important;
+}
+
+.menu-pu2{
+	margin-top: 2px;
+	margin-right: 0px;
+	float: right !important;
+}
+
+.pu-title
+{
+	width: 100%;
+		margin-bottom: 10px;
+		background-color:#2055a2;
+		height: auto;
+		padding: 8px;
+}
+.pu-title > h4 {
+	font-weight: 600;
+	color: white;
+	font-style: bold;
+
+}
+/* =========FOOTER============= */
+.pu-footer{
+	background-color: #ffc928;
+}
+.pu-box-footer{
+	background-color: #ffd454;
+	padding: 10px;
+	/*padding-right: 15px;*/
+	height: auto;
+	width: 100%;
+}
+.pu-box-footer > h5{
+	font-weight: 600;
+	margin-bottom: 8px;
+
+}
+.pu-box-footer > p{
+	color: black;
+}
+.pu-tautan-footer{
+	opacity: 1;
+transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, -0.002, 0, 0, 0, 1);
+transform-origin: center -20px 0px;
+loat: left;
+margin-right: 10px;
+overflow: hidden;
+background-color: #CCCCCC;
+padding: 1px;
+margin-bottom: 10px;
+border: 0px solid #fff;
+color: #000000;
+width: 100%;
+height: auto;
+margin-left: 10px;
+font-size: 8pt;
+}
+
+.last-footer{
+	background-color: #ffc928;
+	bottom: 0;
+	background-repeat: repeat-y;
+	width: 100%;
+	height: 150px;
+}
+.fb-footer, .ig-footer, .twitter-footer, .youtube_footer{
+	width: 100%;
+	height: 60px;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.ig-footer{
+	background-image: url("http://localhost/dinaspu/an-theme/ando/assets/img/ig_dark.png");
+
+	}
+.ig-footer:hover{
+	background-image: url("http://localhost/dinaspu/an-theme/ando/assets/img/ig_light.png");
+}
+.fb-footer{
+	background-image: url("http://localhost/dinaspu/an-theme/ando/assets/img/facebook_dark.png");
+
+}
+.fb-footer:hover{
+	background-image: url("http://localhost/dinaspu/an-theme/ando/assets/img/facebook_light.png");
+}
+.twitter-footer{
+	background-image: url("http://localhost/dinaspu/an-theme/ando/assets/img/twitter_dark.png");
+}
+.twitter-footer:hover{
+	background-image: url("http://localhost/dinaspu/an-theme/ando/assets/img/twitter_light.png");
+}
+.youtube-footer{
+	background-image: url("http://localhost/dinaspu/an-theme/ando/assets/img/youtube_dark.png");
+	height: 70px;
+}
+.youtube-footer:hover{
+	background-image: url("http://localhost/dinaspu/an-theme/ando/assets/img/youtube_light.png");
+}
+
+.navbar-inverse{
+	border : none !important;
+}

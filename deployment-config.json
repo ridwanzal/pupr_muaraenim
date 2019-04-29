@@ -1,0 +1,9 @@
+{
+    "type": "sftp",
+    "host": "ftp.kajianku.com",
+    "username": "dinaspu@kajianku.com",
+    "password": "karyaplg123",
+    "port": 21,
+    "remotePath": "",
+    "uploadOnSave": true
+}

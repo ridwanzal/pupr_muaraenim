@@ -1,0 +1,53 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-04-14 00:25:18 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-04-14 00:25:18 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-04-14 00:25:18 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-04-14 00:25:18 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-04-14 00:25:19 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-04-14 00:26:02 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-04-14 00:26:02 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-04-14 00:26:02 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-04-14 00:26:03 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-04-14 00:26:03 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-04-14 00:26:59 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-04-14 00:26:59 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-04-14 00:26:59 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-04-14 02:28:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-04-14 02:28:39 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-04-14 02:28:39 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-04-14 02:28:40 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-04-14 05:26:06 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-04-14 05:26:06 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-04-14 05:26:06 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-04-14 05:26:07 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-04-14 05:26:07 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-04-14 07:41:16 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-04-14 07:49:09 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-04-14 07:52:08 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-04-14 09:15:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-04-14 09:15:10 --> 404 Page Not Found: Well-known/assetlinks.json
+ERROR - 2019-04-14 10:18:55 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-04-14 10:19:00 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-04-14 10:19:00 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-04-14 11:26:11 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-04-14 11:26:14 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-04-14 11:26:14 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-04-14 14:39:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-04-14 15:45:58 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-04-14 15:46:00 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-04-14 15:46:00 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-04-14 15:52:30 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-04-14 15:52:30 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-04-14 15:52:31 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-04-14 15:52:32 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-04-14 15:52:32 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-04-14 15:53:01 --> Severity: Warning --> opendir(/var/cpanel/php/sessions/ea3): failed to open dir: Permission denied /home/puprmuaraenimkab/public_html/system/libraries/Session/drivers/Session_files_driver.php 358
+ERROR - 2019-04-14 15:53:01 --> Severity: Warning --> session_regenerate_id(): Cannot regenerate session id - headers already sent /home/puprmuaraenimkab/public_html/system/libraries/Session/Session.php 718
+ERROR - 2019-04-14 15:53:02 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-04-14 15:53:03 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-04-14 15:53:03 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-04-14 15:53:04 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-04-14 15:53:05 --> 404 Page Not Found: An-theme/ando
+ERROR - 2019-04-14 15:53:09 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-04-14 17:42:03 --> 404 Page Not Found: Robotstxt/index
